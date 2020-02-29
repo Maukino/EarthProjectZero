@@ -12,6 +12,16 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+<<<<<<< HEAD
+<<<<<<< HEAD
+Content/ThirdPersonBP/Blueprints/A_YO.uasset
+=======
 Content/Map_testing.umap
 Content/Test_Outline.uasset
 Content/Test_Outline.uasset
+>>>>>>> origin/Ole
+=======
+Content/Map_testing.umap
+Content/Test_Outline.uasset
+Content/Test_Outline.uasset
+>>>>>>> Ole
